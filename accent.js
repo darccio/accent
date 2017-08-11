@@ -351,6 +351,6 @@ function printColor(color) {
         url: rgbURL,
         luma: color.luma(),
     }
-    log.info('Selected color: '+ JSON.stringify(details));
+    log.info('Selected color: ' + JSON.stringify(details));
 }
 
