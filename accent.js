@@ -1,5 +1,5 @@
 /**
- * Accent: Generate unused Pantone colors from a reference colors list.
+ * Accent: Pick unused Pantone colors from a reference colors list.
  * Copyright (C) 2017  Dario Castañé
  *
  * This program is free software: you can redistribute it and/or modify
