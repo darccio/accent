@@ -1,2 +1,2 @@
 # accent
-Generate unused Pantone colors from a reference colors list.
+Pick unused Pantone colors from a reference colors list.
